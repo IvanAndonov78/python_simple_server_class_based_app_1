@@ -2,7 +2,7 @@
 """
 Project skeleton: --------------------------
 C:/py_prj/src:
-.... C:/py_prj/passenger_wsgi.py
+.... passenger_wsgi.py
 .... start_server.bat
 .... [v] src 
 ........ __init__.py (empty file)
@@ -11,7 +11,7 @@ C:/py_prj/src:
 ............ myutils.py 
 ........ __init__.py (empty file)
 ........[v] static
-............ some stuff (views, js, css) here ...
+............ some stuff here (views, js, css) ...
 -------------------------------------------------
 """
 
