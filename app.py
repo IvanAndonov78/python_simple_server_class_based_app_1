@@ -1,3 +1,4 @@
+# C:/py_prj/app.py:
 """
 Project skeleton: --------------------------
 C:/py_prj/src:
